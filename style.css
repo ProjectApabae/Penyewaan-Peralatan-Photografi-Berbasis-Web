@@ -1,0 +1,34 @@
+body{
+    min-height: 2000px;
+}
+
+.jumbotron{
+    padding-top: 6rem;
+    background-color: bisque;
+}
+
+#achievement{
+    background-color: bisque;
+    padding-top: 60px;
+}
+
+#profile{
+    padding-top: 60px;
+}
+
+.Contact a {
+    color: black;
+    font-size: 20px;
+}
+
+.watermark{
+    padding-top: 80px;
+}
+
+.profile{
+    background-color: white;
+}
+
+.p{
+    margin-top: 50px;
+}
